@@ -1,0 +1,5 @@
+artifacts:
+  pooldata:
+    path: pool_data
+    type: model
+
