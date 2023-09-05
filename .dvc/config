@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://dvc-public/remote/get-started-pools
+    url = s3://dave-sandbox/cache
