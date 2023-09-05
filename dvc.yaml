@@ -2,4 +2,8 @@ artifacts:
   pooldata:
     path: pool_data
     type: model
+  mymodel:
+    path: model.pkl
+    type: model
+
 
