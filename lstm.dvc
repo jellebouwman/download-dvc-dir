@@ -1,0 +1,13 @@
+md5: 8bb9896e1afc376ac68d631353b1d520
+frozen: true
+deps:
+- path: model
+  repo:
+    url: git@github.com:iterative/lstm_seq2seq
+    rev_lock: 8aa13ed31971eae16e4148cc0cd2c62fa65c38d0
+outs:
+- md5: 9cee20d06392879aec5686cce75fed85.dir
+  size: 17153
+  nfiles: 1
+  hash: md5
+  path: lstm
