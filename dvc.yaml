@@ -10,3 +10,6 @@ artifacts:
     type: model
   mydata:
     path: data.xml
+  pytorchmodel:
+    path: model.pt
+    type: model
