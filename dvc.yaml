@@ -13,3 +13,6 @@ artifacts:
   pytorchmodel:
     path: model.pt
     type: model
+  coco:
+    path: test2014
+    type: model
