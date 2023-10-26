@@ -1,0 +1,13 @@
+md5: ce6a2ca283d3b388e1077f87f193c199
+frozen: true
+deps:
+- path: test2014
+  repo:
+    url: git@github.com:dberenbaum/coco-sample.git
+    rev_lock: ad247281096a07d3c3ea417617bf68ba491d16cb
+outs:
+- md5: 5d2fabe8cfc3f4246724d34bb9791f84.dir
+  size: 6651062777
+  nfiles: 40772
+  hash: md5
+  path: test2014
