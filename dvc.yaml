@@ -2,6 +2,11 @@ artifacts:
   pooldata:
     path: pool_data
     type: model
+    labels:
+      - computer vision
+      - detection
+    meta:
+      domain: geospatial
   mymodel:
     path: model.pkl
     type: model
