@@ -21,3 +21,9 @@ artifacts:
   coco:
     path: test2014
     type: model
+  test-dataset:
+    path: some-path
+    type: dataset
+  test-empty-type:
+    path: some-path
+
